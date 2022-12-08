@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useWallet } from "use-wallet";
+import { useWallet } from "use-wallet2";
 
 import { useBlockchainContext } from "../context";
 import { Toast } from "../utils/message";
